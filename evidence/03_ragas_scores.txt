@@ -1,0 +1,13 @@
+Step 3: RAGAS Evaluation
+
+Metric comparison
+------------------------------------------------------------------------
+faithfulness                   V1=0.9630  V2=0.8817  winner=V1
+answer_relevancy               V1=0.9195  V2=0.9294  winner=V2
+context_recall                 V1=0.9762  V2=0.9783  winner=V2
+context_precision              V1=0.8333  V2=0.7887  winner=V1
+
+Target met: best faithfulness = 0.9630
+Saved data/ragas_report.json
+
+Note: RAGAS printed warnings because the ShopAIKey compatibility endpoint does not support n>1 generations. The evaluation completed successfully and produced the scores above.

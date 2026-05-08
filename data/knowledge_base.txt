@@ -1,0 +1,61 @@
+# VinFast VF 3 Knowledge Base
+
+This curated knowledge base is used for the Day 22 RAG lab. It summarizes facts from the VinFast VF 3 specification sheet and the Vietnam VF 3 warranty booklet.
+
+## Warranty Facts
+
+- The general warranty period for a new VinFast VF 3 in Vietnam is 7 years from warranty activation or 160,000 km, whichever comes first.
+- For vehicles used for commercial service, including taxi, passenger transport, rental, shuttle, or delivery service, the VF 3 warranty is 3 years from warranty activation or 100,000 km, whichever comes first.
+- The high-voltage battery warranty for normal private use is 8 years from warranty activation or 160,000 km, whichever comes first.
+- The high-voltage battery warranty for commercial service use is 3 years or 100,000 km, whichever comes first.
+- VinFast performs high-voltage battery warranty by repair or replacement and ensures battery capacity remains above 70 percent and not lower than the replaced battery capacity.
+- The VF 3 12V battery warranty is 1 year from warranty activation with no mileage limit.
+- Corrosion warranty for normal use is 7 years from warranty activation with no mileage limit for perforation of metal panels caused by material or assembly defects.
+- Suspension components including shock absorbers, stabilizer bar, upper links, lower control arms, ball joints, and strut mounts are warranted for 5 years or 130,000 km, whichever comes first.
+- Genuine replacement parts, excluding the 12V battery and high-voltage battery, are warranted for 2 years or 40,000 km from purchase, whichever comes first.
+- A high-voltage battery bought and installed at a VinFast service workshop after vehicle delivery is warranted for 4 years or 80,000 km from purchase, whichever comes first.
+- Genuine accessories excluding towing hooks, side steps, and luggage racks are warranted for 2 years with no mileage limit from purchase.
+- Towing hooks, side steps, and luggage racks are warranted for 5 years with no mileage limit from purchase; commercial service use has a 3-year accessory warranty from purchase.
+- Warranty service must be performed at VinFast service centers or authorized VinFast dealers with service workshops.
+- VF 3 warranty is valid throughout Vietnam, but warranty work must be performed at VinFast service centers or authorized service dealers.
+- When ownership changes, the customer should notify VinFast service centers or authorized dealers to preserve warranty benefits.
+- Damage from non-genuine batteries or chargers, or use outside VinFast standards and instructions, is outside the warranty scope.
+- Cleaning, inspection, adjustment, and scheduled maintenance items are not covered by the warranty.
+- Wear items such as brake pads, brake discs, wiper blades, remote batteries, fuses, filament bulbs, oils, fluids, filters, and periodic replacement materials are outside the warranty scope.
+- Warranty rescue covers free towing from a location in Vietnam to the nearest VinFast service center or authorized dealer when the vehicle must stop because of a warrantable defect. Return delivery of the vehicle to the customer is not covered.
+- The VinFast Vietnam customer support hotline listed in the VF 3 warranty booklet is 1900 23 23 89.
+- The VinFast websites listed in the warranty booklet are https://vinfastauto.com and https://vinfastauto.com/vn_vi.
+
+## VF 3 Specification Facts
+
+- The VF 3 battery type is LFP.
+- The VF 3 battery capacity is 18.64 kWh.
+- The VF 3 approximate range on a full charge is 210 km.
+- VF 3 normal charging from 10 percent to 70 percent takes about 5 hours.
+- VF 3 fast charging from 10 percent to 70 percent takes about 36 minutes.
+- The VF 3 motor maximum power output is 32 kW.
+- The VF 3 motor maximum torque is 110 Nm.
+- The VF 3 accelerates from 0 to 50 km/h in 5.3 seconds.
+- The VF 3 accelerates from 0 to 100 km/h in 19.3 seconds.
+- The VF 3 combined energy consumption is 9 kWh per 100 km under NEDC.
+- The VF 3 overall dimensions are 3,190 mm long, 1,679 mm wide, and 1,622 mm high.
+- The VF 3 wheelbase is 2,075 mm.
+- The VF 3 no-load ground clearance is 191 mm.
+- The VF 3 curb weight is 857 kg.
+- The VF 3 payload is 300 kg.
+- The VF 3 minimum turning circle diameter is 4.05 meters.
+- The VF 3 has 4 seats.
+- The VF 3 infotainment screen is 10 inches.
+- The VF 3 has 2 speakers.
+- The VF 3 uses rear-wheel drive, abbreviated RWD.
+- The VF 3 selectable driving modes are Eco and Normal.
+- The VF 3 front suspension is MacPherson independent suspension.
+- The VF 3 rear suspension is a rigid axle with Panhard rod.
+- The VF 3 uses front disc brakes with floating calipers and rear drum brakes.
+- The VF 3 wheel and tire size is 175/75R16.
+- The VF 3 has halogen headlamps and halogen taillamps.
+- The VF 3 has front airbags for the driver and front passenger.
+- The VF 3 includes ABS, brake assist, traction control, hill-start assist control, speed-sensitive automatic door lock, front seatbelt pretensioners and load limiters, immobilizer, rear parking assist, and a rear-view camera.
+- The VF 3 speed-sensitive automatic door lock activates at 5 km/h.
+- The VF 3 specification lists Android Auto and Apple CarPlay as available in a future software update.
+- The VF 3 supports over-the-air software updates, including FOTA and SOTA through the MHU.

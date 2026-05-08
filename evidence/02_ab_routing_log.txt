@@ -1,0 +1,61 @@
+Step 2: Prompt Hub A/B Routing
+
+Prompt Hub:
+- Pushed vinfast-rag-prompt-v1
+- Pushed vinfast-rag-prompt-v2
+- Pulled vinfast-rag-prompt-v1 from Prompt Hub
+- Pulled vinfast-rag-prompt-v2 from Prompt Hub
+
+A/B routing output:
+[01] [prompt-v2] What is the general warranty period for a new VinFast VF 3 in Vietnam?
+[02] [prompt-v1] What is the VF 3 warranty period when the vehicle is used for commercial service?
+[03] [prompt-v1] How long is the VF 3 high-voltage battery warranty for normal private use?
+[04] [prompt-v2] What warranty applies to the VF 3 high-voltage battery for commercial service use?
+[05] [prompt-v2] What battery capacity does the VinFast VF 3 have?
+[06] [prompt-v2] What battery type is used in the VF 3?
+[07] [prompt-v2] What is the approximate range of the VF 3 on a full charge?
+[08] [prompt-v1] How long does VF 3 normal charging take from 10 percent to 70 percent?
+[09] [prompt-v2] How long does VF 3 fast charging take from 10 percent to 70 percent?
+[10] [prompt-v1] What is the maximum power output of the VF 3 motor?
+[11] [prompt-v1] What is the maximum torque of the VF 3 motor?
+[12] [prompt-v2] What is the VF 3 acceleration time from 0 to 50 km/h?
+[13] [prompt-v1] What is the VF 3 acceleration time from 0 to 100 km/h?
+[14] [prompt-v2] What is the combined energy consumption of the VF 3?
+[15] [prompt-v1] What are the overall dimensions of the VF 3?
+[16] [prompt-v2] What is the wheelbase of the VF 3?
+[17] [prompt-v2] What is the VF 3 ground clearance with no load?
+[18] [prompt-v1] What is the VF 3 curb weight?
+[19] [prompt-v2] What is the VF 3 payload?
+[20] [prompt-v1] What is the VF 3 minimum turning circle diameter?
+[21] [prompt-v1] How many seats does the VF 3 have?
+[22] [prompt-v2] What size is the VF 3 infotainment screen?
+[23] [prompt-v1] How many speakers does the VF 3 have?
+[24] [prompt-v2] What drivetrain does the VF 3 use?
+[25] [prompt-v1] What selectable driving modes are available on the VF 3?
+[26] [prompt-v2] What front suspension does the VF 3 use?
+[27] [prompt-v2] What rear suspension does the VF 3 use?
+[28] [prompt-v2] What front and rear brakes does the VF 3 use?
+[29] [prompt-v2] What wheel and tire size does the VF 3 use?
+[30] [prompt-v2] What type of headlamps and taillamps does the VF 3 have?
+[31] [prompt-v2] What airbags are listed for the VF 3?
+[32] [prompt-v1] Does the VF 3 include ABS?
+[33] [prompt-v2] Does the VF 3 include hill-start assist control?
+[34] [prompt-v1] At what speed does the VF 3 speed-sensitive auto door lock activate?
+[35] [prompt-v2] Does the VF 3 support Android Auto and Apple CarPlay?
+[36] [prompt-v2] Does the VF 3 support over-the-air software updates?
+[37] [prompt-v1] What is the warranty period for the VF 3 12V battery?
+[38] [prompt-v2] What is the corrosion warranty for the VF 3 in normal use?
+[39] [prompt-v2] How long are VF 3 suspension components warranted in normal use?
+[40] [prompt-v2] What is the warranty for genuine replacement parts excluding 12V battery and high-voltage battery?
+[41] [prompt-v1] What warranty applies to a high-voltage battery bought and installed after vehicle delivery?
+[42] [prompt-v2] Where must VF 3 warranty service be performed in Vietnam?
+[43] [prompt-v2] Is warranty valid across Vietnam for the VF 3?
+[44] [prompt-v1] What should a customer do when VF 3 ownership changes?
+[45] [prompt-v2] Does the warranty cover damage from non-genuine batteries or chargers?
+[46] [prompt-v1] Does the VF 3 warranty cover routine cleaning, inspection, adjustment, and scheduled maintenance?
+[47] [prompt-v1] Does the warranty cover wear items such as brake pads, wiper blades, fuses, and bulbs?
+[48] [prompt-v2] What is VinFast Vietnam's customer support hotline listed in the VF 3 warranty booklet?
+[49] [prompt-v2] What is the VinFast website listed in the VF 3 warranty booklet?
+[50] [prompt-v2] What towing support is covered by the VF 3 warranty rescue policy?
+
+Routing summary: v1=19, v2=31
